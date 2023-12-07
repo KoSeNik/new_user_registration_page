@@ -1,3 +1,6 @@
+
+# Application based on Create React App - new user registration page
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
